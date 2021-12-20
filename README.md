@@ -5,6 +5,8 @@ API CRUD RESTful
 
 **[MySQL]()**
 
+**[JWT]()**
+
 **[GORM - A Golang ORM]()**
 
 **[Gorilla Mux - For HTTP routing and URL matcher]()**
